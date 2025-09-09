@@ -1,5 +1,5 @@
 # The Monk
-Dungeon Game created in C++. Completed 14/04/2024
+Dungeon Game created in C++ for the Object-Orientated Programming Module. Completed 14/04/2024.
 
 ## Introduction
 
