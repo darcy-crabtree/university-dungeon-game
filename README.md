@@ -31,7 +31,7 @@ character dies within and they lose the game
 
 ![Class Diagram](Class-Diagram.png)
 
-#Design Pattern
+## Design Pattern
 - Singleton
 
 ## Testing
