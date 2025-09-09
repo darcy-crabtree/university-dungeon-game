@@ -27,7 +27,7 @@ character dies within and they lose the game
 
 ![Activity Diagram](Activity-Diagram.png)
 
-##Class Diagram
+## Class Diagram
 
 ![Class Diagram](Class-Diagram.png)
 
