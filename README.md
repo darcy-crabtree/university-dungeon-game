@@ -1,4 +1,4 @@
-# university-dungeon-game
+# The Monk
 Dungeon Game created in C++. Completed 14/04/2024
 
 ## Introduction
